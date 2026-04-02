@@ -21,10 +21,10 @@ export const Experience: React.FC = () => {
     {
       id: 1,
       company: 'MMMUT',
-      role: 'Computer Science Student',
+      role: 'Information Technology Student',
       period: '2025 - 2029',
       description:
-        'Pursuing B.Tech in Computer Science with focus on web development, algorithms, and systems programming.',
+        'Pursuing B.Tech in Information Technology with focus on web development, algorithms, and systems programming.',
       achievements: [
         'Building full-stack web applications',
         'Contributing to open-source projects',

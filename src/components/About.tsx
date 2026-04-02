@@ -75,7 +75,7 @@ export const About: React.FC = () => {
           {/* Left: Bio Text */}
           <motion.div className="space-y-6" variants={itemVariants}>
             <p className="text-lg text-gray-400 leading-relaxed font-light">
-              I'm a Computer Science student at MMMUT (2025-2029) passionate about building 
+              I'm a Information Technology student at MMMUT (2025-2029) passionate about building 
               fast, scalable web experiences. With expertise in React, Tailwind CSS, and systems 
               programming (Java, C/C++), I focus on turning complex problems into elegant solutions.
             </p>
